@@ -18,6 +18,7 @@ export default function PostsFeed() {
 
     async function fetchScores() {
       if (!keyword) {
+        setPosts(postsData.map(p => ({ ...p, relevanceScore: 0 })));
         setLoading(false);
         return;
       }
