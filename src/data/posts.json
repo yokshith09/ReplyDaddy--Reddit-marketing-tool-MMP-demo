@@ -1,0 +1,82 @@
+[
+  {
+    "id": "post-1",
+    "subreddit": "r/SaaS",
+    "title": "Struggling to find the right invoicing software for my new SaaS",
+    "body": "Hey everyone, I recently launched my first SaaS product and the billing side is getting complicated. I've tried a few different tools but most of them are either too complex or lack good API integration. I need something that handles recurring subscriptions easily, can integrate with Stripe, and sends professional-looking invoices automatically. Does anyone have recommendations for invoicing software that works well for early-stage SaaS startups? Would love to hear what you are all using.",
+    "upvotes": 45,
+    "postedHoursAgo": 2
+  },
+  {
+    "id": "post-2",
+    "subreddit": "r/smallbusiness",
+    "title": "What's your go-to software for managing client invoices?",
+    "body": "I run a small digital marketing agency and we are currently doing all our invoicing manually via Google Docs. It's a nightmare. I want to streamline this process so we don't spend hours every month just chasing payments. We need a tool that supports different currencies, tracks who has paid, and maybe sends automatic reminders. Bonus points if it's affordable for a team of 3. What invoicing software do you swear by?",
+    "upvotes": 112,
+    "postedHoursAgo": 5
+  },
+  {
+    "id": "post-3",
+    "subreddit": "r/Entrepreneur",
+    "title": "Lessons learned from scaling to $10k MRR",
+    "body": "It took us 14 months, but we finally hit $10k MRR. The biggest bottleneck was definitely manual processes. We used to handle customer support, billing, and onboarding manually. Automating the billing was a game changer. We switched to a dedicated invoicing software that just took the pain away. If you are struggling with growth, look at your manual processes and find tools to automate them. Time is your most valuable asset. Happy to answer any questions!",
+    "upvotes": 340,
+    "postedHoursAgo": 12
+  },
+  {
+    "id": "post-4",
+    "subreddit": "r/SaaS",
+    "title": "Pricing strategy: Annual vs Monthly billing?",
+    "body": "We are debating whether to incentivize annual billing heavily (like a 30% discount). Currently, most of our users are on the monthly plan, which is great for cash flow but churn is a bit higher than we'd like. Our invoicing software allows us to offer both easily, but I'm wondering what the psychological impact is on the buyer. Have you seen a significant change in LTV when pushing annual plans?",
+    "upvotes": 88,
+    "postedHoursAgo": 1
+  },
+  {
+    "id": "post-5",
+    "subreddit": "r/smallbusiness",
+    "title": "Just got scammed by a fake client. Need advice.",
+    "body": "Did some freelance design work for a client who seemed legit. Sent the final files, and now they are ghosting me. I usually require a 50% deposit, but they convinced me to waive it for this \"urgent\" project. Never again. Does anyone use an invoicing software that acts as an escrow, or at least makes it easier to enforce late fees? Really frustrated right now.",
+    "upvotes": 215,
+    "postedHoursAgo": 8
+  },
+  {
+    "id": "post-6",
+    "subreddit": "r/Entrepreneur",
+    "title": "Looking for B2B payment processing alternatives",
+    "body": "We process relatively large transactions (B2B) and the percentage fees from Stripe are starting to hurt. Are there any invoicing platforms that offer better rates for ACH transfers or flat fees for large transactions? We process around $50k/month but in large chunks. Any advice would be appreciated.",
+    "upvotes": 67,
+    "postedHoursAgo": 24
+  },
+  {
+    "id": "post-7",
+    "subreddit": "r/SaaS",
+    "title": "Show r/SaaS: I built a tool to help freelancers track time",
+    "body": "Hi everyone! I just launched a simple time-tracking app for freelancers. It's very minimalist. I'm currently working on adding a feature to export timesheets directly into major invoicing software platforms like QuickBooks or FreshBooks. Would love to get some feedback on the UI and if this export feature is something you'd actually use.",
+    "upvotes": 150,
+    "postedHoursAgo": 4
+  },
+  {
+    "id": "post-8",
+    "subreddit": "r/smallbusiness",
+    "title": "Do you charge clients for payment processing fees?",
+    "body": "When a client pays via credit card, they incur a 3% fee. Our current invoicing software allows us to pass this fee onto the client, but I feel like it might look unprofessional. On the other hand, eating the 3% cost adds up over the year. What is the standard practice for this? Do you just bake it into your hourly rate?",
+    "upvotes": 92,
+    "postedHoursAgo": 18
+  },
+  {
+    "id": "post-9",
+    "subreddit": "r/Entrepreneur",
+    "title": "Rate my tech stack for a solo consulting business",
+    "body": "I'm setting up the infrastructure for my new consulting business. Here's what I have so far: Notion for project management, Google Workspace for email/docs, and I'm still looking for a good invoicing software. I need something that looks extremely professional because I'm dealing with enterprise clients. What's the best option that doesn't cost an arm and a leg?",
+    "upvotes": 45,
+    "postedHoursAgo": 3
+  },
+  {
+    "id": "post-10",
+    "subreddit": "r/SaaS",
+    "title": "Is Stripe Billing enough, or do I need a separate tool?",
+    "body": "We've been using Stripe for payments, but the built-in invoicing feels a bit limited for our B2B customers who often need customized invoice templates and PO numbers. Does anyone use Stripe Billing alongside a dedicated invoicing software, or should we just upgrade our Stripe plan? Trying to keep our stack as simple as possible.",
+    "upvotes": 123,
+    "postedHoursAgo": 6
+  }
+]
